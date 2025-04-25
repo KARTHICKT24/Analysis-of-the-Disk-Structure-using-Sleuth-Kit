@@ -20,9 +20,10 @@ Sleuth Kit Disk Analysis Commands
 
 Let’s create a 10MB blank disk image and simulate file system activity:
 
-```bash
+```
+bash
 cd ~/Downloads
-
+```
 ## OUTPUT:
 ![2 1](https://github.com/user-attachments/assets/c1647074-d227-4238-a7dd-f9d0401447f0)
 ![2 2](https://github.com/user-attachments/assets/12a87aa4-3524-42a6-842e-53d17ea9151a)
